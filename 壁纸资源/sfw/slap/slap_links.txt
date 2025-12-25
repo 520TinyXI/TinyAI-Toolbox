@@ -1,0 +1,33 @@
+{
+  "metadata": {
+    "chinese_name": "掌掴",
+    "english_name": "slap",
+    "type": "sfw",
+    "total_links": 22,
+    "last_updated": "2025-12-17T18:58:08.163418"
+  },
+  "links": [
+    "https://i.waifu.pics/cvKQqp-.gif",
+    "https://i.waifu.pics/QFGN4vE.gif",
+    "https://i.waifu.pics/zFe9vib.gif",
+    "https://i.waifu.pics/52OhdHw.gif",
+    "https://i.waifu.pics/aI5vJ9n.gif",
+    "https://i.waifu.pics/VPwmf~k.gif",
+    "https://i.waifu.pics/vX9nrsn.gif",
+    "https://i.waifu.pics/~P5~hin.gif",
+    "https://i.waifu.pics/puI2pTf.gif",
+    "https://i.waifu.pics/r4jONxp.gif",
+    "https://i.waifu.pics/28V06Sq.gif",
+    "https://i.waifu.pics/zU38OkI.jpg",
+    "https://i.waifu.pics/Q9-IX~O.gif",
+    "https://i.waifu.pics/CJRHy2-.gif",
+    "https://i.waifu.pics/6-_UTFD.gif",
+    "https://i.waifu.pics/Oyfmk6s.gif",
+    "https://i.waifu.pics/s~CLnmA.gif",
+    "https://i.waifu.pics/E7cfJjs.gif",
+    "https://i.waifu.pics/xzoShhA.gif",
+    "https://i.waifu.pics/mXj8i8S.gif",
+    "https://i.waifu.pics/gsskphB.gif",
+    "https://i.waifu.pics/JOKXwLd.gif"
+  ]
+}

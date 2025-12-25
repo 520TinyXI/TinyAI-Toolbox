@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "chinese_name": "脸红",
+    "english_name": "blush",
+    "type": "sfw",
+    "total_links": 30,
+    "last_updated": "2025-12-17T18:58:08.162368"
+  },
+  "links": [
+    "https://i.waifu.pics/-LSfn~O.gif",
+    "https://i.waifu.pics/z1enfIu.gif",
+    "https://i.waifu.pics/rCDL~W2.gif",
+    "https://i.waifu.pics/~FXgXsj.gif",
+    "https://i.waifu.pics/v0O9TYs.gif",
+    "https://i.waifu.pics/dxS7BM7.gif",
+    "https://i.waifu.pics/omFJRuf.gif",
+    "https://i.waifu.pics/_drflhc.gif",
+    "https://i.waifu.pics/hzR2Waj.gif",
+    "https://i.waifu.pics/89mkp1n.gif",
+    "https://i.waifu.pics/1OUw5ve.gif",
+    "https://i.waifu.pics/FHEG7k8.gif",
+    "https://i.waifu.pics/0y6U0OI.gif",
+    "https://i.waifu.pics/51Bpr~F.gif",
+    "https://i.waifu.pics/n54NWd4.gif",
+    "https://i.waifu.pics/2thWaSw.gif",
+    "https://i.waifu.pics/kfFbx6B.gif",
+    "https://i.waifu.pics/_GixPwJ.gif",
+    "https://i.waifu.pics/3XteioK.gif",
+    "https://i.waifu.pics/8rmSHzK.gif",
+    "https://i.waifu.pics/QB0nGSR.gif",
+    "https://i.waifu.pics/WJ1kH-~.gif",
+    "https://i.waifu.pics/S6TyrfT.gif",
+    "https://i.waifu.pics/6Rf2p0i.gif",
+    "https://i.waifu.pics/LGzDX-H.gif",
+    "https://i.waifu.pics/6rca2uM.gif",
+    "https://i.waifu.pics/6dp-Tu2.gif",
+    "https://i.waifu.pics/SG~JcKH.gif",
+    "https://i.waifu.pics/powQgOP.gif",
+    "https://i.waifu.pics/-Cf_23g.gif"
+  ]
+}

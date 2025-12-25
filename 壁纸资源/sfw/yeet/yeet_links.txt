@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "chinese_name": "扔出",
+    "english_name": "yeet",
+    "type": "sfw",
+    "total_links": 32,
+    "last_updated": "2025-12-17T18:58:08.161327"
+  },
+  "links": [
+    "https://i.waifu.pics/WR5_scs.gif",
+    "https://i.waifu.pics/f9nabgT.gif",
+    "https://i.waifu.pics/T4eQpMT.GIF",
+    "https://i.waifu.pics/Kas4hRU.gif",
+    "https://i.waifu.pics/IyZgE0O.gif",
+    "https://i.waifu.pics/uvAXOw-.gif",
+    "https://i.waifu.pics/fDk~7Zw.gif",
+    "https://i.waifu.pics/KMAyZBk.gif",
+    "https://i.waifu.pics/lgbP1Tx.gif",
+    "https://i.waifu.pics/0idPJXJ.gif",
+    "https://i.waifu.pics/xIyHlbU.gif",
+    "https://i.waifu.pics/umNaIta.gif",
+    "https://i.waifu.pics/XehO~Tb.gif",
+    "https://i.waifu.pics/Mnw7eRk.gif",
+    "https://i.waifu.pics/Sbtcune.gif",
+    "https://i.waifu.pics/xBaaTuV.gif",
+    "https://i.waifu.pics/guhbowy.gif",
+    "https://i.waifu.pics/hGgux9G.gif",
+    "https://i.waifu.pics/8VSIwq1.gif",
+    "https://i.waifu.pics/AWDamwE.gif",
+    "https://i.waifu.pics/a-fbxSq.gif",
+    "https://i.waifu.pics/kt_PzLr.gif",
+    "https://i.waifu.pics/X6tN050.GIF",
+    "https://i.waifu.pics/bxcRRQi.gif",
+    "https://i.waifu.pics/G3A67aN.gif",
+    "https://i.waifu.pics/xaZig9L.gif",
+    "https://i.waifu.pics/PZ7Aw2D.gif",
+    "https://i.waifu.pics/iFpcgKQ.gif",
+    "https://i.waifu.pics/9CeCIw4.gif",
+    "https://i.waifu.pics/CfLTuWd.gif",
+    "https://i.waifu.pics/4zqhQir.gif",
+    "https://i.waifu.pics/Dm8TYkY.gif"
+  ]
+}

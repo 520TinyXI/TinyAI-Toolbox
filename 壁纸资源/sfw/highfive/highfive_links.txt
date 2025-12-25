@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "chinese_name": "击掌",
+    "english_name": "highfive",
+    "type": "sfw",
+    "total_links": 19,
+    "last_updated": "2025-12-17T18:58:08.162368"
+  },
+  "links": [
+    "https://i.waifu.pics/gJaFVbX.gif",
+    "https://i.waifu.pics/yLCfWWB.gif",
+    "https://i.waifu.pics/e663PcX.gif",
+    "https://i.waifu.pics/Q_pkTt4.gif",
+    "https://i.waifu.pics/qGP4M1L.gif",
+    "https://i.waifu.pics/JvYGKhE.gif",
+    "https://i.waifu.pics/NUusyu4.gif",
+    "https://i.waifu.pics/6oy99g3.gif",
+    "https://i.waifu.pics/90R3rgJ.gif",
+    "https://i.waifu.pics/UPcalVj.gif",
+    "https://i.waifu.pics/ClmdSAE.gif",
+    "https://i.waifu.pics/WnBG29c.gif",
+    "https://i.waifu.pics/8ToKudt.gif",
+    "https://i.waifu.pics/BOYnj9k.gif",
+    "https://i.waifu.pics/8hlGcTI.gif",
+    "https://i.waifu.pics/OWKHRKT.gif",
+    "https://i.waifu.pics/hZXJ596.gif",
+    "https://i.waifu.pics/~VszWlE.gif",
+    "https://i.waifu.pics/GM-EXJN.gif"
+  ]
+}

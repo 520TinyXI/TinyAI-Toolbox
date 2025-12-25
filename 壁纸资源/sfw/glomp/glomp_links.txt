@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "chinese_name": "飞扑",
+    "english_name": "glomp",
+    "type": "sfw",
+    "total_links": 31,
+    "last_updated": "2025-12-17T18:58:08.163418"
+  },
+  "links": [
+    "https://i.waifu.pics/_lzhQ4d.gif",
+    "https://i.waifu.pics/dbDFTQg.gif",
+    "https://i.waifu.pics/39RhSWF.gif",
+    "https://i.waifu.pics/0qfvUyW.gif",
+    "https://i.waifu.pics/BtF6Yv7.gif",
+    "https://i.waifu.pics/~p1eStu.gif",
+    "https://i.waifu.pics/JC4ToMD.gif",
+    "https://i.waifu.pics/YMwjgUV.gif",
+    "https://i.waifu.pics/16bUqXB.gif",
+    "https://i.waifu.pics/QTsUuoE.gif",
+    "https://i.waifu.pics/bTFd1Ib.gif",
+    "https://i.waifu.pics/~fsNfp1.gif",
+    "https://i.waifu.pics/BJXOIbX.gif",
+    "https://i.waifu.pics/~K~FeV0.gif",
+    "https://i.waifu.pics/bRG3hmg.gif",
+    "https://i.waifu.pics/0LmY~mf.gif",
+    "https://i.waifu.pics/eGI9PdR.gif",
+    "https://i.waifu.pics/5OLw5y~.gif",
+    "https://i.waifu.pics/bvIqnAH.gif",
+    "https://i.waifu.pics/mvL6w6M.gif",
+    "https://i.waifu.pics/84p4ZG8.gif",
+    "https://i.waifu.pics/h8QP782.gif",
+    "https://i.waifu.pics/8NcEgL3.gif",
+    "https://i.waifu.pics/cn6gKEg.gif",
+    "https://i.waifu.pics/oNxUhul.gif",
+    "https://i.waifu.pics/E_vNkTQ.gif",
+    "https://i.waifu.pics/n241~2f.gif",
+    "https://i.waifu.pics/QXHi-Er.gif",
+    "https://i.waifu.pics/cnBG3xZ.gif",
+    "https://i.waifu.pics/ID09a-0.gif",
+    "https://i.waifu.pics/TxsFuVO.gif"
+  ]
+}
