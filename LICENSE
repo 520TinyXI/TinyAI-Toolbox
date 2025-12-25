@@ -1,21 +1,15 @@
-MIT License
+版权所有 (c) 2025 工具箱项目
 
-Copyright (c) 2025 工具箱项目
+保留所有权利。
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+允许个人学习、研究和非商业使用本软件。
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+禁止以下行为：
+1. 商业使用本软件或其衍生作品
+2. 出售、出租、许可或通过其他方式从本软件获利
+3. 再许可本软件给第三方
+4. 修改后闭源发布
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+在遵循上述条件的情况下，允许复制、修改和分发本软件，但必须保留原作者的版权声明和本许可条款。
+
+本软件按"原样"提供，不附带任何明示或暗示的保证，包括但不限于适销性、特定用途适用性和非侵权性的保证。在任何情况下，作者或版权持有人均不对因使用本软件或与本软件有关的任何索赔、损害或其他责任负责，无论是在合同、侵权或其他法律理论下产生的。
