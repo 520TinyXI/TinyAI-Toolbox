@@ -23,13 +23,12 @@
 - 开issue描述bug
 - fork去改造成你想要的
 
----
 
-# 工具箱项目
+TinyAI-Toolbox
 
-一个功能丰富、易于扩展的在线工具箱，包含各种实用工具，支持前后端分离架构，适合个人和团队使用。
+一个功能丰富、易于扩展的在线工具箱，包含各种实用AI工具和普通工具，支持前后端分离架构，适合个人和团队使用。
 
-## 功能特性
+功能特性
 
 - ✅ 多种实用工具集成
 - ✅ 响应式设计，支持移动端访问
@@ -38,7 +37,7 @@
 - ✅ 支持工具动态添加和管理
 - ✅ 简洁美观的UI设计
 
-## 工具分类
+工具分类
 
 - 📁 **开发工具**：JSON格式化、Base64编码、MD5加密、URL编码等
 - 📊 **数据分析**：BMI计算器、单位转换等
@@ -52,21 +51,21 @@
 - ✨ **生成工具**：随机数生成、文本分析等
 - 🎮 **模拟工具**：王者荣耀战力查询等
 
-## 快速开始
+快速开始
 
-### 环境要求
+环境要求
 
 - PHP 7.4+
 - SQLite 3
 - 现代浏览器
 
-### 安装部署
+安装部署
 
 1. 克隆仓库到本地
-```bash
-git clone https://github.com/520TinyXI/TinyAI-Toolbox
-cd toolbox
-```
+bash
+git clone https://github.com/520TinyXI/TinyAI-Toolbox.git
+cd TinyAI-Toolbox
+
 
 2. 配置数据库
 
@@ -74,64 +73,74 @@ cd toolbox
 
 3. 启动服务
 
-```bash
-# 使用PHP内置服务器
+bash
+使用PHP内置服务器
 php -S localhost:8000
 
-# 或使用其他Web服务器（如Apache、Nginx）将根目录指向项目根目录
-```
+或使用其他Web服务器（如Apache、Nginx）将根目录指向项目根目录
+
 
 4. 访问系统
 
-- 前台地址：http://localhost:8000
-- 后台地址：http://localhost:8000/admin
+前台地址：http://localhost:8000
+后台地址：http://localhost:8000/admin
 
-### 后台登录
+后台登录
 
 默认管理员账号：
-- 用户名：admin
-- 密码：admin
+用户名：admin
+密码：admin
 
-## 项目结构
+项目结构
 
-```
+
 toolbox/
 ├── admin/          # 后台管理系统
 │   ├── css/        # 后台CSS样式
 │   ├── php/        # 后台PHP代码
-│   └── *.php       # 后台页面
+│   └── .php       # 后台页面
 ├── css/            # 前台CSS样式
 ├── js/             # 前台JavaScript
 ├── php/            # 核心PHP代码
 │   ├── config.php  # 系统配置
 │   ├── db.php      # 数据库连接
-│   └── *.php       # 各种功能模块
+│   └── .php       # 各种功能模块
 ├── tools/          # 工具页面
-│   └── *.php       # 各种工具实现
+│   └── .php       # 各种工具实现
 └── index.php       # 前台首页
-```
 
-## 如何添加新工具
+
+如何添加新工具
 
 1. 在`php/config.php`中添加工具配置
 2. 在`tools/`目录下创建工具页面
 3. 实现工具功能
 
-## 技术栈
+技术栈
 
-- **前端**：HTML5、CSS3、JavaScript
-- **后端**：PHP 7.4+
-- **数据库**：SQLite 3
-- **架构**：前后端分离（部分功能）
+前端：HTML5、CSS3、JavaScript
+后端：PHP 7.4+
+数据库：SQLite 3
+架构：前后端分离（部分功能）
 
 ## 许可证
 
-MIT License
+保留所有权利。
 
-## 贡献
+允许个人学习、研究和非商业使用本软件。
+
+禁止以下行为：
+商业使用本软件或其衍生作品
+出售、出租、许可或通过其他方式从本软件获利
+再许可本软件给第三方
+修改后闭源发布
+
+详细许可证条款请查看 [LICENSE](LICENSE) 文件。
+
+贡献
 
 欢迎提交PR和issue，一起完善这个工具箱项目！
 
-## 联系方式
+联系方式
 
 如有问题或建议，可以通过GitHub Issues联系我。
