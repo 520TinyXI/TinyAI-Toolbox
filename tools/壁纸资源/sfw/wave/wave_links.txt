@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "chinese_name": "挥手",
+    "english_name": "wave",
+    "type": "sfw",
+    "total_links": 24,
+    "last_updated": "2025-12-17T18:58:08.162368"
+  },
+  "links": [
+    "https://i.waifu.pics/546M14t.gif",
+    "https://i.waifu.pics/s3G5xJ0.gif",
+    "https://i.waifu.pics/GsRst1L.gif",
+    "https://i.waifu.pics/jFOkv3O.gif",
+    "https://i.waifu.pics/ZOkB2_x.gif",
+    "https://i.waifu.pics/0omhd79.gif",
+    "https://i.waifu.pics/8npsaf-.gif",
+    "https://i.waifu.pics/aSLVz3i.gif",
+    "https://i.waifu.pics/fwjX3GR.gif",
+    "https://i.waifu.pics/l3_ObDa.gif",
+    "https://i.waifu.pics/wyVFEi7.gif",
+    "https://i.waifu.pics/aFDHylw.gif",
+    "https://i.waifu.pics/SNR4nf5.gif",
+    "https://i.waifu.pics/x3CjjOx.gif",
+    "https://i.waifu.pics/HeeBaFc.gif",
+    "https://i.waifu.pics/KEPtqkH.gif",
+    "https://i.waifu.pics/Jvi3~TN.gif",
+    "https://i.waifu.pics/hjxDDMl.gif",
+    "https://i.waifu.pics/T0gfAdU.gif",
+    "https://i.waifu.pics/RtR0LFI.gif",
+    "https://i.waifu.pics/iC7niFP.gif",
+    "https://i.waifu.pics/SUhe26k.gif",
+    "https://i.waifu.pics/42DWO_8.gif",
+    "https://i.waifu.pics/gwNlL3Q.gif"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "metadata": {
+    "chinese_name": "欺负",
+    "english_name": "bully",
+    "type": "sfw",
+    "total_links": 32,
+    "last_updated": "2025-12-17T18:58:08.159258"
+  },
+  "links": [
+    "https://i.waifu.pics/8Wm_KyP.gif",
+    "https://i.waifu.pics/s-0Mz_4.gif",
+    "https://i.waifu.pics/MjULOe4.gif",
+    "https://i.waifu.pics/Do6GNig.gif",
+    "https://i.waifu.pics/4b0db7I.gif",
+    "https://i.waifu.pics/pDbQ0T6.gif",
+    "https://i.waifu.pics/rt7K3MU.gif",
+    "https://i.waifu.pics/bTdxh2f.gif",
+    "https://i.waifu.pics/jToFZwe.gif",
+    "https://i.waifu.pics/khhzy36.gif",
+    "https://i.waifu.pics/fwxtIj-.gif",
+    "https://i.waifu.pics/3dKMGG0.gif",
+    "https://i.waifu.pics/EKKjdHx.gif",
+    "https://i.waifu.pics/zE1I51u.gif",
+    "https://i.waifu.pics/zTJTn04.gif",
+    "https://i.waifu.pics/5Hbxlc6.gif",
+    "https://i.waifu.pics/KjPudzm.gif",
+    "https://i.waifu.pics/AiJODD1.gif",
+    "https://i.waifu.pics/CSFOS1M.gif",
+    "https://i.waifu.pics/UCU39bB.gif",
+    "https://i.waifu.pics/R9Ql9Uq.gif",
+    "https://i.waifu.pics/Pr7U47c.gif",
+    "https://i.waifu.pics/_ikAKMp.gif",
+    "https://i.waifu.pics/mIlXAkV.gif",
+    "https://i.waifu.pics/CnHHoqi.gif",
+    "https://i.waifu.pics/Ctdzzt5.gif",
+    "https://i.waifu.pics/bhakm8h.gif",
+    "https://i.waifu.pics/xgqw1JE.gif",
+    "https://i.waifu.pics/8wn2KAk.gif",
+    "https://i.waifu.pics/CQNvP6B.gif",
+    "https://i.waifu.pics/faosCHB.gif",
+    "https://i.waifu.pics/4ziUDQ-.gif"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "chinese_name": "敲头",
+    "english_name": "bonk",
+    "type": "sfw",
+    "total_links": 20,
+    "last_updated": "2025-12-17T18:58:08.161327"
+  },
+  "links": [
+    "https://i.waifu.pics/pbFJXKZ.gif",
+    "https://i.waifu.pics/35fhCi8.gif",
+    "https://i.waifu.pics/Kd9StT9.gif",
+    "https://i.waifu.pics/r44m1A5.gif",
+    "https://i.waifu.pics/UhbtpTF.gif",
+    "https://i.waifu.pics/yA9Tv9O.gif",
+    "https://i.waifu.pics/Gh0daN7.gif",
+    "https://i.waifu.pics/rITaGDs.gif",
+    "https://i.waifu.pics/DT5Cguw.gif",
+    "https://i.waifu.pics/AIltUG4.gif",
+    "https://i.waifu.pics/D5LKEXC.gif",
+    "https://i.waifu.pics/gL119rX.gif",
+    "https://i.waifu.pics/XvKVlZN.gif",
+    "https://i.waifu.pics/zo4U5Bh.gif",
+    "https://i.waifu.pics/RVJv71M.gif",
+    "https://i.waifu.pics/NJo1_Fd.gif",
+    "https://i.waifu.pics/XCxAgkz.gif",
+    "https://i.waifu.pics/nzlOe5g.gif",
+    "https://i.waifu.pics/P0KsSsA.gif",
+    "https://i.waifu.pics/J3rfA02.gif"
+  ]
+}

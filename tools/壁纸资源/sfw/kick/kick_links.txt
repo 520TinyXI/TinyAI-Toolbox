@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "chinese_name": "踢",
+    "english_name": "kick",
+    "type": "sfw",
+    "total_links": 28,
+    "last_updated": "2025-12-17T18:58:08.164432"
+  },
+  "links": [
+    "https://i.waifu.pics/~eSaT3X.gif",
+    "https://i.waifu.pics/PVm4fOI.gif",
+    "https://i.waifu.pics/I~Gkbc0.gif",
+    "https://i.waifu.pics/0eJi-OS.gif",
+    "https://i.waifu.pics/zExkFd1.gif",
+    "https://i.waifu.pics/ve8lHum.gif",
+    "https://i.waifu.pics/LkaAY1h.gif",
+    "https://i.waifu.pics/yukGfeE.gif",
+    "https://i.waifu.pics/9btNk6_.gif",
+    "https://i.waifu.pics/u9g-HyK.gif",
+    "https://i.waifu.pics/0wrsj79.gif",
+    "https://i.waifu.pics/Z4tx5dF.gif",
+    "https://i.waifu.pics/FxDWcmZ.gif",
+    "https://i.waifu.pics/Qjuht_q.gif",
+    "https://i.waifu.pics/O8qm8aU.gif",
+    "https://i.waifu.pics/F~JEuzF.gif",
+    "https://i.waifu.pics/S~2Hqgm.gif",
+    "https://i.waifu.pics/fxL8rm_.gif",
+    "https://i.waifu.pics/~9t_55m.gif",
+    "https://i.waifu.pics/5S6AVgU.gif",
+    "https://i.waifu.pics/~_LWT1g.gif",
+    "https://i.waifu.pics/0lp0nMR.gif",
+    "https://i.waifu.pics/duyVtsX.gif",
+    "https://i.waifu.pics/G6Pa8ek.gif",
+    "https://i.waifu.pics/BZ38S3s.gif",
+    "https://i.waifu.pics/wZtL4zy.gif",
+    "https://i.waifu.pics/I9DcxVn.gif",
+    "https://i.waifu.pics/w_ZzO3d.gif"
+  ]
+}

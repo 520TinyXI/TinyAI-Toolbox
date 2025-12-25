@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "chinese_name": "击杀",
+    "english_name": "kill",
+    "type": "sfw",
+    "total_links": 17,
+    "last_updated": "2025-12-17T18:58:08.163418"
+  },
+  "links": [
+    "https://i.waifu.pics/6Izshr4.gif",
+    "https://i.waifu.pics/Q~m51SY.gif",
+    "https://i.waifu.pics/jNWDXiC.gif",
+    "https://i.waifu.pics/9b1NpBN.gif",
+    "https://i.waifu.pics/aHcQUmi.gif",
+    "https://i.waifu.pics/lgsRSai.gif",
+    "https://i.waifu.pics/judBJyS.gif",
+    "https://i.waifu.pics/Qug33iz.gif",
+    "https://i.waifu.pics/hGFuwrQ.gif",
+    "https://i.waifu.pics/8uhQSdY.gif",
+    "https://i.waifu.pics/OByL0MA.gif",
+    "https://i.waifu.pics/hsAy9-u.gif",
+    "https://i.waifu.pics/7Z1tV23.gif",
+    "https://i.waifu.pics/ylnGeuF.gif",
+    "https://i.waifu.pics/ETWB-ef.gif",
+    "https://i.waifu.pics/edytj3I.gif",
+    "https://i.waifu.pics/Oz4aaul.gif"
+  ]
+}
